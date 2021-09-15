@@ -1,4 +1,5 @@
 Im studying for my CCNA
+<<<<<<< HEAD
 
 Facts about others:
 Henry likes cheese
@@ -6,3 +7,6 @@ Anna's a BME major
 JCheng lives on campus
 Ghelani works as an intern at VCU
 Rebeccas initials spell RAM
+=======
+Apart of CMSC 355 - Software Engineering with David Shepherd - Justin
+>>>>>>> f30a14554d84b93d5cb9e45137b8bd73cd67ecf2
